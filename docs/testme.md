@@ -1,3 +1,7 @@
+---
+title: Markdown testing
+---
+
 # This is my markdown file!
 
 
