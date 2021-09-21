@@ -23,7 +23,7 @@ entries:
           url: printing.html
         - output: web,pdf
           title: Testing Markdown
-          url: testme.md
+          url: testme
         title: Printing Utilities
     output: web
     title: Performing Math
