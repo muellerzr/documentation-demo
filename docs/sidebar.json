@@ -1,6 +1,8 @@
 {
-  "docmentation_demo": {
-    "Overview": "/",
-    "Arithmatic": "core.html"
-  }
+	"Introduction": {
+		"Overview": "/"
+	},
+	"Performing Math": {
+		"Arithmatic": "core.html"
+	}
 }

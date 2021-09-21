@@ -9,10 +9,13 @@ entries:
     - output: web,pdf
       title: Overview
       url: /
+    output: web
+    title: Introduction
+  - folderitems:
     - output: web,pdf
       title: Arithmatic
       url: core.html
     output: web
-    title: docmentation_demo
+    title: Performing Math
   output: web
   title: Sidebar
