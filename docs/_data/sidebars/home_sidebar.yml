@@ -21,6 +21,9 @@ entries:
         - output: web,pdf
           title: HelpMe
           url: printing.html
+        - output: web,pdf
+          title: Testing Markdown
+          url: testme.md
         title: Printing Utilities
     output: web
     title: Performing Math

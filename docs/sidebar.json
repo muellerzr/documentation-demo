@@ -4,11 +4,11 @@
 	},
 	"Performing Math": {
 		"Arithmatic": "core.html",
-        "":{
-            "Printing Utilities": {
-                "HelpMe":"printing.html",
-                "Testing Markdown": "testme.md"
-            },
-        }
+		"": {
+			"Printing Utilities": {
+				"HelpMe": "printing.html",
+				"Testing Markdown": "testme.md"
+			}
+		}
 	}
 }
