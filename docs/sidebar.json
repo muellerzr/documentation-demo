@@ -5,7 +5,9 @@
 	"Performing Math": {
 		"Arithmatic": "core.html",
         "":{
-            "Printing":"printing.html"
+            "Printing Utilities": {
+                "HelpMe":"printing.html"
+            }
         }
 	}
 }

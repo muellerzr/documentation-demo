@@ -16,9 +16,12 @@ entries:
       title: Arithmatic
       url: core.html
       subfolders:
-      - output: web,pdf
-        title: Printing
-        url: printing.html
+      - output: web
+        subfolderitems:
+        - output: web,pdf
+          title: HelpMe
+          url: printing.html
+        title: Printing Utilities
     output: web
     title: Performing Math
   output: web
