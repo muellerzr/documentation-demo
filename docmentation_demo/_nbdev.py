@@ -8,6 +8,6 @@ modules = ["arithmatic.py"]
 
 doc_url = "https://muellerzr.github.io/docmentation_demo/"
 
-git_url = "https://github.com/muellerzr/docmentation_demo/tree/master/"
+git_url = "https://github.com/muellerzr/documentation-demo/tree/master/"
 
 def custom_doc_links(name): return None
