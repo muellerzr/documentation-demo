@@ -15,6 +15,10 @@ entries:
     - output: web,pdf
       title: Arithmatic
       url: core.html
+      subfolders:
+      - output: web,pdf
+        title: Printing
+        url: printing.html
     output: web
     title: Performing Math
   output: web

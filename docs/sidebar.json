@@ -3,6 +3,9 @@
 		"Overview": "/"
 	},
 	"Performing Math": {
-		"Arithmatic": "core.html"
+		"Arithmatic": "core.html",
+        "":{
+            "Printing":"printing.html"
+        }
 	}
 }

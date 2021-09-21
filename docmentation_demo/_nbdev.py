@@ -2,9 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"addition": "00_core.ipynb"}
+index = {"addition": "00_core.ipynb",
+         "printme": "01_printing.ipynb"}
 
-modules = ["arithmatic.py"]
+modules = ["arithmatic.py",
+           "printing.py"]
 
 doc_url = "https://muellerzr.github.io/docmentation_demo/"
 
