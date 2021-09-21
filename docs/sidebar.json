@@ -6,8 +6,9 @@
 		"Arithmatic": "core.html",
         "":{
             "Printing Utilities": {
-                "HelpMe":"printing.html"
-            }
+                "HelpMe":"printing.html",
+                "Testing Markdown": "testme.md"
+            },
         }
 	}
 }
